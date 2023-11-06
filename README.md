@@ -39,6 +39,8 @@ In the Bank Robbery Game, you'll:
 - Assemble your crew that you will be the leader in it.
 - Execute your plan by infiltrating the bank, avoiding security, and dealing with any unexpected obstacles and terminate them.
 - Complete your objectives and make your escape before the authorities arrive.
+- As a policeman you are waiting for the robbers outside the bank and try to kill them all before they kill you and ran away, you have a team of policemen that helps you.
+- As a normal civilian you wait in the bank line to come to the banker and than the robbers get inside the bank and every body get scared. you can take a gun that is in the trash near some banker table and kill the robbers from behind or you can watch how the robbers and the policemen fights or you can try to run away.
 
 ## Controls
 
