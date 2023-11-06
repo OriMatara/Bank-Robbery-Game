@@ -9,7 +9,6 @@
 - [Controls](#controls)
 - [Scripts Overview](#scripts-overview)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## About
 
